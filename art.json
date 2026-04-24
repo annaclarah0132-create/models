@@ -1,0 +1,10 @@
+[
+  {
+    "type": "vehicle",
+    "model": 523,
+    "id": 1001,
+    "name": "moto_raio",
+    "dff": "copbike.dff",
+    "txd": "copbike.txd"
+  }
+]
