@@ -1,0 +1,26 @@
+[
+  {
+    "type": "vehicle",
+    "model": 523,
+    "id": 1001,
+    "name": "moto_raio",
+    "dff": "copbike.dff",
+    "txd": "copbike.txd"
+  },
+  {
+    "type": "vehicle",
+    "model": 416,
+    "id": -1000, 
+    "name": "dodge_ram",
+    "dff": "ambulan.dff",
+    "txd": "ambulan.txd"
+  },
+   {
+    "type": "vehicle",
+    "model": 411,
+    "id": 1002, 
+    "name": "dodge_ram",
+    "dff": "copcar.dff",
+    "txd": "copcar.txd"
+  }
+]
