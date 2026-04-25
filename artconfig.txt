@@ -1,1 +1,0 @@
-AddSimpleModel(-1, 416, -1000, "ambulancia.dff", "ambulancia.txd");
