@@ -10,7 +10,7 @@
   {
     "type": "vehicle",
     "model": 416,
-    "id": -1000, 
+    "id": 1000, 
     "name": "dodge_ram",
     "dff": "ambulan.dff",
     "txd": "ambulan.txd"
