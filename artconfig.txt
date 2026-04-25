@@ -1,0 +1,1 @@
+AddSimpleModel(-1, 416, -1000, "ambulan.dff", "ambulan.txd");
