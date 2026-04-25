@@ -1,0 +1,18 @@
+[
+  {
+    "type": "vehicle",
+    "model": 523,
+    "id": 1001,
+    "name": "moto_raio",
+    "dff": "copbike.dff",
+    "txd": "copbike.txd"
+  },
+  {
+	  "type": "vehicle",
+    "model": 416,
+    "id": 1000, 
+    "name": "ambulancia",
+    "dff": "ambulan.dff",
+    "txd": "ambulan.txd"
+  }
+]
